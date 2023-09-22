@@ -68,3 +68,40 @@ a:hover {
     text-align: center;
     margin-top: 50px;
 }
+
+.titbox {
+    padding: 10px;
+    padding-bottom: 0px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.boxbody {
+    background-color: rgba(53,162,159, 0.91);
+    width: 838px;
+    height: 694px;
+    border-radius: 20px 20px 0 0;
+    position: relative;
+    left: 20%;
+}
+
+.boxbody h2 {
+    font-family: Lato;
+    font-weight: 700;
+    padding: 15px;
+    padding-bottom: 5px;
+    font-size: 28px;
+    margin-left: 20px;
+}
+
+.boxbody li{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 18px;
+    margin-left: 25px;
+    padding: 5px;
+}
+
+#firsttit {
+    padding-top: 35px;
+}
